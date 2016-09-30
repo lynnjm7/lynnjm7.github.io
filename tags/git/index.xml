@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Josh Lynn</title>
+    <link>http://lynnjm7.github.io/tags/git/</link>
+    <description>Recent content in Git on Josh Lynn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Josh Lynn</copyright>
+    <lastBuildDate>Tue, 27 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://lynnjm7.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GenIgnore</title>
+      <link>http://lynnjm7.github.io/project/genignore/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lynnjm7.github.io/project/genignore/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

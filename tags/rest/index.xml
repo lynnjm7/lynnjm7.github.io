@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rest on Josh Lynn</title>
+    <link>http://lynnjm7.github.io/tags/rest/</link>
+    <description>Recent content in Rest on Josh Lynn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Josh Lynn</copyright>
+    <lastBuildDate>Tue, 27 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://lynnjm7.github.io/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aptcast</title>
+      <link>http://lynnjm7.github.io/project/aptcast/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lynnjm7.github.io/project/aptcast/</guid>
+      <description>
+
+&lt;h2 id=&#34;origins&#34;&gt;Origins&lt;/h2&gt;
+
+&lt;p&gt;Aptcast started as an Internet Listing Service (ILS) for apartment communities.
+The primary goal of the project was to create a native iOS and Android app that
+could be white labelled for individual property management companies for their
+portfolios.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-ils&#34;&gt;The ILS&lt;/h2&gt;
+
+&lt;p&gt;The iOS version Aptcast was officially released at NAA 2015 in Las Vegas, NV. It
+was implemented in Swift with Objective-C and C for certain components. The use
+of C for this project was to improve performance and reduce memory consumption
+on mobile devices.&lt;/p&gt;
+
+&lt;p&gt;The key feature of the app was generating a heat-map overlay for the Google Maps
+iOS SDK that displayed the price differences between various zip codes. This
+required writing a custom GeoJSON parser that could generate the appropriate
+polygons that would then be applied to the map. To reduce memory requirements
+and improve rendering performance, several vertex processing algorithms were used
+to decrease the number of vertices required to render the polygon on the map.&lt;/p&gt;
+
+&lt;h2 id=&#34;residents&#34;&gt;Residents&lt;/h2&gt;
+
+&lt;p&gt;After receiving feedback from several of our customers, development of the Aptcast
+ILS was discontinued in favor of pursuing a new line of Aptcast apps that were
+geared towards residents of apartment communities. These new Aptcast Resident
+apps were implemented with Ionic and Cordova and designed to be white labeled
+for individual communities.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-role-in-aptcast&#34;&gt;My role in Aptcast&lt;/h2&gt;
+
+&lt;p&gt;My role in these projects varied. For the ILS version of Aptcast, I was the
+principal engineer on implementing both the app and the REST APIs that it was
+interacting with. The Aptcast REST APIs were implemented using Go, Python, and
+Amazon Web Services infrastructure.&lt;/p&gt;
+
+&lt;p&gt;For the resident apps, I worked on the REST APIs and supervised the team of
+developers and designers that were implementing the Ionic apps.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

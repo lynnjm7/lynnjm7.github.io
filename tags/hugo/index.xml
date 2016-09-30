@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Josh Lynn</title>
+    <link>http://lynnjm7.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Josh Lynn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Josh Lynn</copyright>
+    <lastBuildDate>Thu, 29 Sep 2016 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://lynnjm7.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A new site and a new start.</title>
+      <link>http://lynnjm7.github.io/post/intro/</link>
+      <pubDate>Thu, 29 Sep 2016 12:00:00 +0000</pubDate>
+      
+      <guid>http://lynnjm7.github.io/post/intro/</guid>
+      <description>
+
+&lt;h2 id=&#34;fresh-start&#34;&gt;Fresh start&lt;/h2&gt;
+
+&lt;p&gt;This post is a new start&amp;hellip; that needs to be filled in a bit more&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Another article</title>
+      <link>http://lynnjm7.github.io/post/intro2/</link>
+      <pubDate>Thu, 29 Sep 2016 12:00:00 +0000</pubDate>
+      
+      <guid>http://lynnjm7.github.io/post/intro2/</guid>
+      <description>
+
+&lt;h2 id=&#34;fresh-start&#34;&gt;Fresh start&lt;/h2&gt;
+
+&lt;p&gt;This post is a new start&amp;hellip; that needs to be filled in a bit more&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Another article 2</title>
+      <link>http://lynnjm7.github.io/post/intro3/</link>
+      <pubDate>Thu, 29 Sep 2016 12:00:00 +0000</pubDate>
+      
+      <guid>http://lynnjm7.github.io/post/intro3/</guid>
+      <description>
+
+&lt;h2 id=&#34;fresh-start&#34;&gt;Fresh start&lt;/h2&gt;
+
+&lt;p&gt;This post is a new start&amp;hellip; that needs to be filled in a bit more&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Another article 3</title>
+      <link>http://lynnjm7.github.io/post/intro4/</link>
+      <pubDate>Thu, 29 Sep 2016 12:00:00 +0000</pubDate>
+      
+      <guid>http://lynnjm7.github.io/post/intro4/</guid>
+      <description>
+
+&lt;h2 id=&#34;fresh-start&#34;&gt;Fresh start&lt;/h2&gt;
+
+&lt;p&gt;This post is a new start&amp;hellip; that needs to be filled in a bit more&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Another article 4</title>
+      <link>http://lynnjm7.github.io/post/intro5/</link>
+      <pubDate>Thu, 29 Sep 2016 12:00:00 +0000</pubDate>
+      
+      <guid>http://lynnjm7.github.io/post/intro5/</guid>
+      <description>
+
+&lt;h2 id=&#34;fresh-start&#34;&gt;Fresh start&lt;/h2&gt;
+
+&lt;p&gt;This post is a new start&amp;hellip; that needs to be filled in a bit more&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Another article 5</title>
+      <link>http://lynnjm7.github.io/post/intro6/</link>
+      <pubDate>Thu, 29 Sep 2016 12:00:00 +0000</pubDate>
+      
+      <guid>http://lynnjm7.github.io/post/intro6/</guid>
+      <description>
+
+&lt;h2 id=&#34;fresh-start&#34;&gt;Fresh start&lt;/h2&gt;
+
+&lt;p&gt;This post is a new start&amp;hellip; that needs to be filled in a bit more&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
