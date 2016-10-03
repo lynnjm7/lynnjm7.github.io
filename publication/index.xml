@@ -7,26 +7,117 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Josh Lynn</copyright>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Oct 2016 13:07:45 -0700</lastBuildDate>
     <atom:link href="http://lynnjm7.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>http://lynnjm7.github.io/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Resume</title>
+      <link>http://lynnjm7.github.io/publication/resume/</link>
+      <pubDate>Sun, 02 Oct 2016 13:07:45 -0700</pubDate>
       
-      <guid>http://lynnjm7.github.io/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>http://lynnjm7.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://lynnjm7.github.io/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>http://lynnjm7.github.io/publication/resume/</guid>
+      <description>
+
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+
+&lt;p&gt;BS Computer Science, math minor. University of Nevada, Las Vegas, December 2012&lt;/p&gt;
+
+&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt; C, C++, C#, Java, Objective-C, Swift, Python, JavaScript, Go&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Graphics Libraries:&lt;/strong&gt; OpenGL, OpenGL ES, WebGL, CUDA, OpenCL&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Databases:&lt;/strong&gt; SQLite, MySQL, PostgreSQL, DynamoDB, MongoDB&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Operating Systems:&lt;/strong&gt; macOS, Windows, Linux, iOS, Android&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Development Tools:&lt;/strong&gt; Git, Maven, Gradle, Make, Android Studio/IntelliJ, Xcode, Visual Studio, Vim&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Development Methodologies:&lt;/strong&gt; Scrum, Agile, TDD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;employment-history&#34;&gt;Employment History&lt;/h1&gt;
+
+&lt;h2 id=&#34;lead-software-engineer-apartments247-com-june-2015-present&#34;&gt;Lead Software Engineer, Apartments247.com, &lt;em&gt;June 2015 ~ Present&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;In addition to the responsibilities discussed in the &lt;code&gt;Software Engineer&lt;/code&gt; position
+below:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Managed a team of 8-12 engineers on various projects, including REST APIs,
+iOS and Android apps, and internal tooling.&lt;/li&gt;
+&lt;li&gt;Supervised team of engineers and designers in creating a series of mobile apps
+for residents of apartment communities. These apps were designed to be white
+labeled for the branding of various communities. The apps were implemented
+with Ionic and Apache Cordova.&lt;/li&gt;
+&lt;li&gt;Directly lead team in developing REST APIs on AWS infrastructure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;software-engineer-apartments247-com-december-2014-present&#34;&gt;Software Engineer, Apartments247.com, &lt;em&gt;December 2014 ~ Present&lt;/em&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lead engineer on constructing JSON REST APIs and a distributed, microservice
+infrastructure on AWS. The services were built leveraging different AWS
+services including, SQS, DynamoDB, Aurora, Lambda, EC2, S3, and API Gateway.&lt;/li&gt;
+&lt;li&gt;Engineered and implemented an Internet Listing Service (ILS) for apartment
+communities. The Aptcast ILS was implemented with Swift (with some use of
+C and Objective-C for various components) and released for iPhone. Project
+discontinued due to business decisions to focus on Resident apps.&lt;/li&gt;
+&lt;li&gt;Designed and implemented the original microservice APIs in Go, Node, and Python
+that were used for the Aptcast apps. These became the foundation for new
+product development.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;software-development-engineer-contract-galavantier-february-2014-july-2014&#34;&gt;Software Development Engineer (Contract), Galavantier, &lt;em&gt;February 2014 ~ July 2014&lt;/em&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Technical lead on &lt;em&gt;Marko&amp;rsquo;s Guest List&lt;/em&gt; iOS app, implemented in Objective-C. The
+app consumed a JSON REST API.&lt;/li&gt;
+&lt;li&gt;Maintained and extended existing Drupal REST APIs with PHP and MySQL.&lt;/li&gt;
+&lt;li&gt;Implemented a custom Customer Service pipeline to aid service representatives
+in responding to leads generated from the iOS app.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;software-engineer-contract-lambda-td-software-inc-june-2013-december-2013&#34;&gt;Software Engineer (Contract), Lambda TD Software, Inc., &lt;em&gt;June 2013 ~ December 2013&lt;/em&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implemented features and bug fixes on the  &lt;em&gt;LFE Five Home Automation Platform&lt;/em&gt;. The platform
+consisted of a REST API implemented in Java with Spring and PostgreSQL. The goal of the project
+was to create a system that would provide a common interface for users to be able to interact
+with multiple different home automation protocols. This was achieved by interacting with
+various home automation protocol through their official SDKs or with C/C++ called through the JNI.
+The system was implemented as a proof of concept on a Raspberry Pi.&lt;/li&gt;
+&lt;li&gt;This company is no longer in business.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;other-experiences&#34;&gt;Other Experiences&lt;/h1&gt;
+
+&lt;h2 id=&#34;personal-projects&#34;&gt;Personal Projects&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;See the &lt;a href=&#34;http://lynnjm7.github.io/#projects&#34;&gt;my projects&lt;/a&gt; for a listing of projects.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;founder-organizer-las-vegas-go-meetup-july-2015-present&#34;&gt;Founder &amp;amp; Organizer, Las Vegas Go Meetup, &lt;em&gt;July 2015 ~ Present&lt;/em&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Organized presentations and meetings for programmers to discuss the Go programming language
+and to create an environment to foster the growth and development of the Las Vegas Golang
+community.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;founder-organizer-las-vegas-siggraph-meetup-september-2015-present&#34;&gt;Founder &amp;amp; Organizer, Las Vegas SIGGRAPH Meetup, &lt;em&gt;September 2015 ~ Present&lt;/em&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Organized presentations and meetings for artists, engineers, and researchers to
+discuss computer graphics and interactive techniques.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;professional-memberships&#34;&gt;Professional Memberships&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ACM and SIGGRAPH, since 2011&lt;/li&gt;
+&lt;li&gt;IEEE and IEEE/CS, since 2011&lt;/li&gt;
+&lt;li&gt;SIAM, since 2012&lt;/li&gt;
+&lt;li&gt;IGDA, since 2016&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
