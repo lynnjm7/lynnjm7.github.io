@@ -26,7 +26,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt; C, C++, C#, Java, Objective-C, Swift, Python, JavaScript, Go&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Graphics Libraries:&lt;/strong&gt; OpenGL, OpenGL ES, WebGL, CUDA, OpenCL&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Graphics Libraries and Tools:&lt;/strong&gt; OpenGL, OpenGL ES, WebGL, GLSL, CUDA&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Databases:&lt;/strong&gt; SQLite, MySQL, PostgreSQL, DynamoDB, MongoDB&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Operating Systems:&lt;/strong&gt; macOS, Windows, Linux, iOS, Android&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Development Tools:&lt;/strong&gt; Git, Maven, Gradle, Make, Android Studio/IntelliJ, Xcode, Visual Studio, Vim&lt;/li&gt;
