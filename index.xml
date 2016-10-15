@@ -20,7 +20,7 @@
 
 &lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
 
-&lt;p&gt;BS Computer Science, math minor. University of Nevada, Las Vegas, December 2012&lt;/p&gt;
+&lt;p&gt;BS Computer Science, Math Minor. University of Nevada, Las Vegas, December 2012&lt;/p&gt;
 
 &lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
 
@@ -53,14 +53,14 @@ with Ionic and Apache Cordova.&lt;/li&gt;
 &lt;h2 id=&#34;software-engineer-apartments247-com-december-2014-present&#34;&gt;Software Engineer, Apartments247.com, &lt;em&gt;December 2014 ~ Present&lt;/em&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Lead engineer on constructing JSON REST APIs and a distributed, microservice
+&lt;li&gt;Lead engineer on constructing JSON REST APIs on a distributed, microservice
 infrastructure on AWS. The services were built leveraging different AWS
 services including, SQS, DynamoDB, Aurora, Lambda, EC2, S3, and API Gateway.&lt;/li&gt;
 &lt;li&gt;Engineered and implemented an Internet Listing Service (ILS) for apartment
 communities. The Aptcast ILS was implemented with Swift (with some use of
 C and Objective-C for various components) and released for iPhone. Project
 discontinued due to business decisions to focus on Resident apps.&lt;/li&gt;
-&lt;li&gt;Designed and implemented the original microservice APIs in Go, Node, and Python
+&lt;li&gt;Designed and implemented microservice APIs in Java, Go, Node, and Python
 that were used for the Aptcast apps. These became the foundation for new
 product development.&lt;/li&gt;
 &lt;/ul&gt;
@@ -80,10 +80,10 @@ in responding to leads generated from the iOS app.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;Implemented features and bug fixes on the  &lt;em&gt;LFE Five Home Automation Platform&lt;/em&gt;. The platform
 consisted of a REST API implemented in Java with Spring and PostgreSQL. The goal of the project
-was to create a system that would provide a common interface for users to be able to interact
-with multiple different home automation protocols. This was achieved by interacting with
-various home automation protocol through their official SDKs or with C/C++ called through the JNI.
-The system was implemented as a proof of concept on a Raspberry Pi.&lt;/li&gt;
+was to create a system that would provide a common interface for users to interact
+with multiple home automation protocols. The API used existing Java SDKs or
+called C/C++ through the JNI for interacting with the protocols. The system was
+implemented as a proof of concept on a Raspberry Pi.&lt;/li&gt;
 &lt;li&gt;This company is no longer in business.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -92,14 +92,14 @@ The system was implemented as a proof of concept on a Raspberry Pi.&lt;/li&gt;
 &lt;h2 id=&#34;personal-projects&#34;&gt;Personal Projects&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;See the &lt;a href=&#34;http://lynnjm7.github.io/#projects&#34;&gt;my projects&lt;/a&gt; for a listing of projects.&lt;/li&gt;
+&lt;li&gt;See &lt;a href=&#34;http://lynnjm7.github.io/#projects&#34;&gt;my projects&lt;/a&gt; for a listing of projects.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;founder-organizer-las-vegas-go-meetup-july-2015-present&#34;&gt;Founder &amp;amp; Organizer, Las Vegas Go Meetup, &lt;em&gt;July 2015 ~ Present&lt;/em&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Organized presentations and meetings for programmers to discuss the Go programming language
-and to create an environment to foster the growth and development of the Las Vegas Golang
+&lt;li&gt;Organized presentations and meetings to discuss the Go programming language
+to create an environment fostering the growth and development of the Las Vegas Golang
 community.&lt;/li&gt;
 &lt;/ul&gt;
 
