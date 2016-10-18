@@ -7,8 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Josh Lynn</copyright>
-    <lastBuildDate>Sun, 02 Oct 2016 13:07:45 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 17 Oct 2016 17:42:15 -0700</lastBuildDate>
     <atom:link href="http://lynnjm7.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>An Intro to Swift&#39;s Type System</title>
+      <link>http://lynnjm7.github.io/publication/swift_types/</link>
+      <pubDate>Mon, 17 Oct 2016 17:42:15 -0700</pubDate>
+      
+      <guid>http://lynnjm7.github.io/publication/swift_types/</guid>
+      <description>&lt;p&gt;This talk was presented at the Las Vegas iOS Developers Meetup and presented an
+introduction to the basics of the Swift type system and how to describe basics
+data structures in the Swift programming language.&lt;/p&gt;
+
+&lt;p&gt;This talk begins with a treatment of basic data oriented development and continues
+on a tour through the basic structure of defining data in Swift. This talk was
+prepared as part of a series of talks on helping new iOS Developers learn Swift
+and programming.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Object Orientation in Go</title>
+      <link>http://lynnjm7.github.io/publication/objects_in_go/</link>
+      <pubDate>Mon, 17 Oct 2016 17:34:27 -0700</pubDate>
+      
+      <guid>http://lynnjm7.github.io/publication/objects_in_go/</guid>
+      <description>&lt;p&gt;Object oriented programing poses a unique approach to problem solving that some
+developers, when first learning Go, struggle to work through. This talk addresses
+some of those issues and illustrates a simplified way of thinking about object
+oriented programming.&lt;/p&gt;
+
+&lt;p&gt;To view these slides, you will need to setup the go present tool. For more
+information on using this tool, please see the
+&lt;a href=&#34;https://godoc.org/golang.org/x/tools/present&#34;&gt;present tools docs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The information presented in these slides is in the &lt;code&gt;gooo.slide&lt;/code&gt; file in the
+linked repository.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Resume</title>
@@ -84,7 +121,6 @@ was to create a system that would provide a common interface for users to intera
 with multiple home automation protocols. The API used existing Java SDKs or
 called C/C++ through the JNI for interacting with the protocols. The system was
 implemented as a proof of concept on a Raspberry Pi.&lt;/li&gt;
-&lt;li&gt;This company is no longer in business.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;other-experiences&#34;&gt;Other Experiences&lt;/h1&gt;

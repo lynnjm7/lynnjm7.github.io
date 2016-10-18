@@ -65,7 +65,15 @@ developers and designers that were implementing the Ionic apps.&lt;/p&gt;
       <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://lynnjm7.github.io/project/genignore/</guid>
-      <description></description>
+      <description>&lt;p&gt;In the course of setting up programming projects, it is often nice to be able to
+generate a gitignore file that fits your needs. Usually, I&amp;rsquo;ll use a service
+like &lt;a href=&#34;http://gitignore.io&#34;&gt;gitignore.io&lt;/a&gt; to generate an ignore file. However,
+I&amp;rsquo;ve found the breaking out to a separate site breaks my workflow of creating
+the project on the command line. This highlighted my need and desire to have a
+command line utility to create gitignore files.&lt;/p&gt;
+
+&lt;p&gt;For more information, please see the project&amp;rsquo;s repository.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
