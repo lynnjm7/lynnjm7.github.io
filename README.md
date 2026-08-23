@@ -1,4 +1,4 @@
-# Josh Lynn's Personal Site
+# My Personal Site
 
 This the main repository for my perosnal website. In general, this is a plain
 HTML and CSS website. I've tried to make this as simple as possible and
